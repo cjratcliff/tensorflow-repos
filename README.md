@@ -18,11 +18,9 @@ https://github.com/jazzsaxmafia/show_and_tell.tensorflow
 
 **Character-level Language Model with LSTM (generative)**    
 https://github.com/sherjilozair/char-rnn-tensorflow     
-Includes multi-layer LSTM, RNN and GRU.
-
-https://github.com/carpedm20/lstm-char-cnn-tensorflow     
-Includes perplexity, batch normalization and a highway network.
-
+Includes multi-layer LSTM, RNN and GRU.    
+https://github.com/carpedm20/lstm-char-cnn-tensorflow        
+Includes perplexity, batch normalization and a highway network.    
 https://github.com/tensorflow/models/tree/master/namignizer 
 
 **CNN**    
