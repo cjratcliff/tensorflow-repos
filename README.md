@@ -2,9 +2,7 @@
 A list of repositories for TensorFlow by topic.
 
 #### A3C
-Asynchoronous advantage actor-critic 
-reinforcement learning.
-
+Asynchoronous advantage actor-critic reinforcement learning.    
 https://github.com/miyosuda/async_deep_reinforce 
 
 #### AlexNet
@@ -54,8 +52,7 @@ https://github.com/DeepLearningProjects/DeepLearningFlappyBird
 https://github.com/devsisters/DQN-tensorflow
 
 #### Discriminative RNN
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py 
-
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py    
 http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
 
 #### Dropout
@@ -95,11 +92,9 @@ https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_Neur
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_MultiGPU/multigpu_basics.py 
 
 #### Neural Algorithm for Artistic Style
-https://github.com/ckmarkoh/neuralart_tensorflow
-
-https://github.com/anishathalye/neural-style 
-
-https://github.com/woodrush/neural-art-tf 
+https://github.com/ckmarkoh/neuralart_tensorflow    
+https://github.com/anishathalye/neural-style    
+https://github.com/woodrush/neural-art-tf
 
 #### Neural Turing Machine
 https://github.com/carpedm20/NTM-tensorflow 
@@ -108,8 +103,7 @@ https://github.com/carpedm20/NTM-tensorflow
 https://github.com/tensorflow/models/tree/master/syntaxnet 
 
 #### Residual Network
-https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/10_residual_network.ipynb 
-
+https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/10_residual_network.ipynb    
 https://github.com/ry/tensorflow-resnet 
 
 #### Semi-supervised Discriminative CNN-LSTM 
@@ -125,19 +119,17 @@ https://github.com/hardmaru/sketch-rnn
 https://github.com/tensorflow/models/tree/master/transformer
 
 #### Translation
-From modern English to Shakespeare 
+From modern English to Shakespeare    
 https://github.com/tokestermw/tensorflow-shakespeare
 
 #### VAE-GAN Draw
 https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW 
 
 #### Word2Vec
-https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py 
-
+https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py    
 Includes NCE
 
-https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html 
-
+https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html    
 Skip-gram model	with NCE
 
 #### Word-level language model (generative)
