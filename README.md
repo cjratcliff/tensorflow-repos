@@ -3,7 +3,6 @@ A list of repositories for TensorFlow by topic.
 
 #### A3C
 Asynchoronous advantage actor-critic reinforcement learning.
-
 https://github.com/miyosuda/async_deep_reinforce 
 
 #### AlexNet
