@@ -75,16 +75,16 @@ https://github.com/tensorflow/models/tree/master/inception
 https://github.com/rinuboney/ladder 
 
 #### Logistic regression
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicClassifiers/logistic_regression.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py
 
 #### Loss visualization
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5_UserInterface/loss_visualization.py 
+https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/4_Utils
 
 #### MLP
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py
 
 #### Multi-GPU
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_MultiGPU/multigpu_basics.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5_MultiGPU/multigpu_basics.py
 
 #### Neural Algorithm for Artistic Style
 https://github.com/ckmarkoh/neuralart_tensorflow    
