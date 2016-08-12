@@ -1,8 +1,8 @@
 # Tensorflow Repos
-A list of repositories for TensorFlow by topic.
+A list of repositories for TensorFlow by topic. Contributions welcome.
 
 **A3C**    
-Asynchoronous advantage actor-critic reinforcement learning.    
+Asynchoronous advantage actor-critic for reinforcement learning.    
 https://github.com/miyosuda/async_deep_reinforce 
 
 **Autoencoders**    
@@ -18,9 +18,7 @@ https://github.com/jazzsaxmafia/show_and_tell.tensorflow
 
 **Character-level Language Model with LSTM (generative)**    
 https://github.com/sherjilozair/char-rnn-tensorflow     
-Includes multi-layer LSTM, RNN and GRU.    
-https://github.com/carpedm20/lstm-char-cnn-tensorflow        
-Includes perplexity, batch normalization and a highway network.    
+https://github.com/carpedm20/lstm-char-cnn-tensorflow          
 https://github.com/tensorflow/models/tree/master/namignizer 
 
 **CNN**    
@@ -57,7 +55,8 @@ https://github.com/ericjang/genadv_tutorial/blob/master/genadv1.ipynb
 https://github.com/hardmaru/write-rnn-tensorflow 
 
 **Highway Network**    
-https://github.com/fomorians/highway-cnn 
+https://github.com/fomorians/highway-cnn   
+https://github.com/tensorflow/models/tree/master/namignizer
 
 **Inception Architecture**    
 https://github.com/tensorflow/models/tree/master/inception 
@@ -98,7 +97,8 @@ https://github.com/gschengcong/Semi-Supervised-CNN-for-Sentiment-Analysis
 **Sequence to Sequence: Video to Text**    
 https://github.com/jazzsaxmafia/video_to_sequence 
 
-**Sketch RNN (generative)**    
+**Sketch RNN (generative)**  
+Generates fake Chinese characters    
 https://github.com/hardmaru/sketch-rnn
 
 **Spatial Transformer Network**    
@@ -108,15 +108,13 @@ https://github.com/tensorflow/models/tree/master/transformer
 From modern English to Shakespeare    
 https://github.com/tokestermw/tensorflow-shakespeare
 
-**VAE-GAN Draw**    
+**VAE-GAN DRAW**    
 https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW 
 
 **Word2Vec**    
 https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py    
-Includes NCE
-
+Skip-gram model
 https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html    
-Skip-gram model	with NCE
 
 **Word-level language model (generative)**    
 https://github.com/hunkim/word-rnn-tensorflow 
