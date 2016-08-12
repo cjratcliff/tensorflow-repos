@@ -19,13 +19,9 @@ https://github.com/jazzsaxmafia/show_and_tell.tensorflow
 
 #### Character-level Language Model with LSTM (generative)
 https://github.com/sherjilozair/char-rnn-tensorflow 
-	Includes multi-layer LSTM, RNN and GRU.
+Includes multi-layer LSTM, RNN and GRU.
 https://github.com/carpedm20/lstm-char-cnn-tensorflow 
-	Includes:
-Perplexity
-Batch normalization
-Highway network
-Convolutions
+Includes perplexity, batch normalization and a highway network.
 https://github.com/tensorflow/models/tree/master/namignizer 
 
 #### CNN
@@ -43,9 +39,10 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutoria
 #### Deep Q Learning
 https://github.com/nivwusquorum/tensorflow-deepq 
 https://github.com/DeepLearningProjects/DeepLearningFlappyBird 
-https://github.com/devsisters/DQN-tensorflow 
+https://github.com/devsisters/DQN-tensorflow
 
-#### Discriminative RNN	https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py 
+#### Discriminative RNN
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py 
 http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/ 
 
 #### Dropout
