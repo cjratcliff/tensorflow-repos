@@ -27,7 +27,7 @@ https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_Neur
 **Convolutional Autoencoder**    
 https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/09_convolutional_autoencoder.ipynb 
 
-**Convolutional Generative Adversarial Network (GAN)**    
+**Deep Convolutional Generative Adversarial Network (DCGAN)**    
 https://github.com/carpedm20/DCGAN-tensorflow 
 
 **DeepDream**    
