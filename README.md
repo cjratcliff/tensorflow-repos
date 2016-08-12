@@ -1,6 +1,9 @@
 # Tensorflow Repos
+A list of repositories by topic.
 
 #### A3C
+Asynchoronous advantage actor-critic reinforcement learning.
+
 https://github.com/miyosuda/async_deep_reinforce 
 
 #### AlexNet
@@ -8,6 +11,7 @@ https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_Neur
 
 #### Autoencoders
 Standard, denoising and variational autoencoders
+
 https://github.com/tensorflow/models/tree/master/autoencoder
 
 #### Bidirectional RNN (discriminative)
@@ -20,8 +24,10 @@ https://github.com/jazzsaxmafia/show_and_tell.tensorflow
 #### Character-level Language Model with LSTM (generative)
 https://github.com/sherjilozair/char-rnn-tensorflow 
 Includes multi-layer LSTM, RNN and GRU.
+
 https://github.com/carpedm20/lstm-char-cnn-tensorflow 
 Includes perplexity, batch normalization and a highway network.
+
 https://github.com/tensorflow/models/tree/master/namignizer 
 
 #### CNN
@@ -34,7 +40,7 @@ https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/09_convolu
 https://github.com/carpedm20/DCGAN-tensorflow 
 
 #### DeepDream
-https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb 
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
 
 #### Deep Q Learning
 https://github.com/nivwusquorum/tensorflow-deepq 
@@ -43,7 +49,7 @@ https://github.com/devsisters/DQN-tensorflow
 
 #### Discriminative RNN
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py 
-http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/ 
+http://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
 
 #### Dropout
 https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html 
@@ -71,11 +77,13 @@ https://github.com/rinuboney/ladder
 
 #### Logistic regression
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicClassifiers/logistic_regression.py 
+
 #### Loss visualization
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5_UserInterface/loss_visualization.py 
 
 #### MLP
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py 	
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py
+
 #### Multi-GPU
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_MultiGPU/multigpu_basics.py 
 
@@ -108,6 +116,7 @@ https://github.com/tensorflow/models/tree/master/transformer
 
 #### Translation
 From modern English to Shakespeare 
+https://github.com/tokestermw/tensorflow-shakespeare
 
 #### VAE-GAN Draw
 https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW 
@@ -116,8 +125,7 @@ https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
 https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py 
 Includes NCE
 https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html 
-Skip-gram model	
-Includes NCE
+Skip-gram model	with NCE
 
 #### Word-level language model (generative)
 https://github.com/hunkim/word-rnn-tensorflow 
