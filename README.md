@@ -1,5 +1,5 @@
 # Tensorflow Repos
-A list of repositories by topic.
+A list of repositories for TensorFlow by topic.
 
 #### A3C
 Asynchoronous advantage actor-critic reinforcement learning.
