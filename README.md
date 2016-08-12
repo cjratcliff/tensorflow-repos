@@ -4,7 +4,7 @@
 https://github.com/miyosuda/async_deep_reinforce 
 
 #### AlexNet
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3%20-%20Neural%20Networks/alexnet.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/alexnet.py 
 
 #### Autoencoders
 Standard, denoising and variational autoencoders
@@ -73,14 +73,14 @@ https://github.com/tensorflow/models/tree/master/inception
 https://github.com/rinuboney/ladder 
 
 #### Logistic regression
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2%20-%20Basic%20Classifiers/logistic_regression.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicClassifiers/logistic_regression.py 
 #### Loss visualization
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5%20-%20User%20Interface/loss_visualization.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/5_UserInterface/loss_visualization.py 
 
 #### MLP
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3%20-%20Neural%20Networks/multilayer_perceptron.py 	
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py 	
 #### Multi-GPU
-https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4%20-%20Multi%20GPU/multigpu_basics.py 
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_MultiGPU/multigpu_basics.py 
 
 #### Neural Algorithm for Artistic Style
 https://github.com/ckmarkoh/neuralart_tensorflow 
