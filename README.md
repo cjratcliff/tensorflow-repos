@@ -113,7 +113,7 @@ https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
 
 **Word2Vec**    
 https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py    
-Skip-gram model
+Skip-gram model    
 https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html    
 
 **Word-level language model (generative)**    
