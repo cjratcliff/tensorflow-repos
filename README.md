@@ -132,6 +132,9 @@ https://github.com/tensorflow/models/tree/master/textsum
 **VAE-GAN DRAW**    
 https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW 
 
+**WaveNet**         
+https://github.com/ibab/tensorflow-wavenet
+
 **Word2Vec**    
 https://github.com/nlintz/TensorFlow-Tutorials/blob/master/8_word2vec.py    
 Skip-gram model    
