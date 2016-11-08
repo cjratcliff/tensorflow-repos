@@ -3,7 +3,7 @@ A list of repositories for TensorFlow by topic. Contributions welcome.
 
 **A3C**    
 Asynchoronous advantage actor-critic for reinforcement learning.    
-https://github.com/miyosuda/async_deep_reinforce 
+https://github.com/miyosuda/async_deep_reinforce     
 https://github.com/dennybritz/reinforcement-learning/tree/master/PolicyGradient/a3c
 
 **Autoencoders**    
