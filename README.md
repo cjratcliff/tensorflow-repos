@@ -56,7 +56,8 @@ https://github.com/carpedm20/MemN2N-tensorflow
 https://github.com/joelgrus/fizz-buzz-tensorflow 
 
 **Generative Adversarial Nets**    
-https://github.com/ericjang/genadv_tutorial/blob/master/genadv1.ipynb 
+https://github.com/ericjang/genadv_tutorial/blob/master/genadv1.ipynb        
+[https://github.com/buriburisuri/ebgan](EBGAN)
 
 **Generative Handwriting**    
 https://github.com/hardmaru/write-rnn-tensorflow 
