@@ -57,7 +57,7 @@ https://github.com/joelgrus/fizz-buzz-tensorflow
 
 **Generative Adversarial Nets**    
 https://github.com/ericjang/genadv_tutorial/blob/master/genadv1.ipynb        
-[https://github.com/buriburisuri/ebgan](EBGAN)
+[EBGAN](https://github.com/buriburisuri/ebgan)
 
 **Generative Handwriting**    
 https://github.com/hardmaru/write-rnn-tensorflow 
