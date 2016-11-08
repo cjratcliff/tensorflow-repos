@@ -4,6 +4,7 @@ A list of repositories for TensorFlow by topic. Contributions welcome.
 **A3C**    
 Asynchoronous advantage actor-critic for reinforcement learning.    
 https://github.com/miyosuda/async_deep_reinforce 
+https://github.com/dennybritz/reinforcement-learning/tree/master/PolicyGradient/a3c
 
 **Autoencoders**    
 Standard, denoising and variational autoencoders    
@@ -24,6 +25,9 @@ https://github.com/tensorflow/models/tree/master/namignizer
 **CNN**    
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py 
 
+**CNN Language Model (discriminative)**
+https://github.com/dennybritz/cnn-text-classification-tf
+
 **Convolutional Autoencoder**    
 https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/09_convolutional_autoencoder.ipynb 
 
@@ -37,6 +41,8 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutoria
 https://github.com/nivwusquorum/tensorflow-deepq    
 https://github.com/DeepLearningProjects/DeepLearningFlappyBird    
 https://github.com/devsisters/DQN-tensorflow
+https://github.com/dennybritz/reinforcement-learning/blob/master/DQN/Deep%20Q%20Learning%20Solution.ipynb
+https://github.com/dennybritz/reinforcement-learning/blob/master/DQN/Double%20DQN%20Solution.ipynb
 
 **Discriminative RNN**    
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/recurrent_network.py    
@@ -86,6 +92,9 @@ https://github.com/carpedm20/NTM-tensorflow
 
 **Parser**    
 https://github.com/tensorflow/models/tree/master/syntaxnet 
+
+**REINFORCE**
+https://github.com/dennybritz/reinforcement-learning/blob/master/PolicyGradient/CliffWalk%20REINFORCE%20with%20Baseline%20Solution.ipynb
 
 **Residual Network**    
 https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/10_residual_network.ipynb    
