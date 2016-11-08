@@ -89,6 +89,9 @@ https://github.com/ckmarkoh/neuralart_tensorflow
 https://github.com/anishathalye/neural-style    
 https://github.com/woodrush/neural-art-tf
 
+**Neural GPU**     
+https://github.com/tensorflow/models/tree/master/neural_gpu
+
 **Neural Turing Machine**    
 https://github.com/carpedm20/NTM-tensorflow 
 
@@ -103,7 +106,8 @@ https://github.com/dennybritz/reinforcement-learning/blob/master/PolicyGradient/
 
 **Residual Network**    
 https://github.com/pkmital/tensorflow_tutorials/blob/master/notebooks/10_residual_network.ipynb    
-https://github.com/ry/tensorflow-resnet 
+https://github.com/ry/tensorflow-resnet     
+https://github.com/tensorflow/models/tree/master/resnet
 
 **Semi-supervised Discriminative CNN-LSTM**    
 https://github.com/gschengcong/Semi-Supervised-CNN-for-Sentiment-Analysis 
@@ -117,6 +121,9 @@ https://github.com/hardmaru/sketch-rnn
 
 **Spatial Transformer Network**    
 https://github.com/tensorflow/models/tree/master/transformer
+
+**Text summarization**    
+https://github.com/tensorflow/models/tree/master/textsum
 
 **Translation**    
 [From modern English to Shakespeare](https://github.com/tokestermw/tensorflow-shakespeare)    
