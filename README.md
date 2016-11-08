@@ -93,6 +93,9 @@ https://github.com/carpedm20/NTM-tensorflow
 **Parser**    
 https://github.com/tensorflow/models/tree/master/syntaxnet 
 
+**Recurrent Highway Network**    
+https://github.com/julian121266/RecurrentHighwayNetworks
+
 **REINFORCE**    
 https://github.com/dennybritz/reinforcement-learning/blob/master/PolicyGradient/CliffWalk%20REINFORCE%20with%20Baseline%20Solution.ipynb
 
