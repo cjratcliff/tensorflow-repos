@@ -117,7 +117,7 @@ https://github.com/hardmaru/sketch-rnn
 https://github.com/tensorflow/models/tree/master/transformer
 
 **Translation**    
-[From modern English to Shakespeare](https://github.com/tokestermw/tensorflow-shakespeare)
+[From modern English to Shakespeare](https://github.com/tokestermw/tensorflow-shakespeare)    
 [ByteNet - Neural Machine Translation in Linear Time (2016)](https://github.com/paarthneekhara/byteNet-tensorflow)
 
 **VAE-GAN DRAW**    
