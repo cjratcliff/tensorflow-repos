@@ -25,7 +25,7 @@ https://github.com/tensorflow/models/tree/master/namignizer
 **CNN**    
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py 
 
-**CNN Language Model (discriminative)**
+**CNN Language Model (discriminative)**    
 https://github.com/dennybritz/cnn-text-classification-tf
 
 **Convolutional Autoencoder**    
