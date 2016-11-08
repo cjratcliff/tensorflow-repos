@@ -13,10 +13,6 @@ https://github.com/tensorflow/models/tree/master/autoencoder
 **Bidirectional RNN (discriminative)**    
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/bidirectional_rnn.py 
 
-**Caption Generator**    
-For still images    
-https://github.com/jazzsaxmafia/show_and_tell.tensorflow 
-
 **Character-level Language Model with LSTM (generative)**    
 https://github.com/sherjilozair/char-rnn-tensorflow     
 https://github.com/carpedm20/lstm-char-cnn-tensorflow          
@@ -65,6 +61,10 @@ https://github.com/hardmaru/write-rnn-tensorflow
 **Highway Network**    
 https://github.com/fomorians/highway-cnn   
 https://github.com/tensorflow/models/tree/master/namignizer
+
+**Image Captioning**      
+https://github.com/jazzsaxmafia/show_and_tell.tensorflow     
+[Show and Tell: A Neural Image Caption Generator](https://github.com/tensorflow/models/tree/master/im2txt)
 
 **Inception Architecture**    
 https://github.com/tensorflow/models/tree/master/inception 
